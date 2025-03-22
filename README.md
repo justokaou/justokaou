@@ -29,6 +29,7 @@ I'm a system and network administrator with a strong passion for automation, sec
 ### 🖥️  System Tools
 
 - **[Rsync Remote Backup](https://github.com/justokaou/rsync-remote-backup)**: A Bash script for automating file and folder migration between servers, with disk space checks and advanced options.
+- **[GLPI Upgrade Script](https://github.com/justokaou/glpi-update-script)**: Bash script to automate the upgrade of a GLPI installation with backup, dependencies, and service checks.
 
 ### 💻 Dev Tools
 
