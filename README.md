@@ -28,14 +28,15 @@ I'm a system and network administrator with a strong passion for automation, sec
 
 > A real-time, GPG-powered file encryption system with systemd integration.
 
-- 🔁 Live bidirectional sync (with auto encryption/decryption)
-- 🔐 GPG public key encryption, per-folder configuration
-- ⚙️ Runs as systemd service or CLI
-- 📦 .deb packaging for production setup
-- 🧹 Optionally wipes plaintext on shutdown
+- 🔁 Live bidirectional sync (with auto encryption/decryption)  
+- 🔐 GPG public key encryption, per-folder configuration  
+- ⚙️ Runs as systemd service (root or `--user`) or via CLI  
+- 👤 Full support for **user-level services** (`--user`)  
+- 📦 .deb packaging for production setup  
+- 🧹 Optionally wipes plaintext on shutdown  
 - 💡 YAML-based config + modular CLI (`encryptsyncctl`)
 
-💬 *First stable release [`v0.1.0`](https://github.com/justokaou/encryptsync/releases/tag/v0.1.0) now available.*
+💬 *Latest release: [`v0.2.0`](https://github.com/justokaou/encryptsync/releases/tag/v0.2.0) — now with full `--user` mode support.*
 
 ---
 
